@@ -78,7 +78,7 @@ a {
 }
 
 #photo:hover {
-  opacity: 0.4;
+  opacity: 0.25;
 }
 
 #open-text {
@@ -148,6 +148,7 @@ a {
 #stanley {
   width: 300px;
   overflow: hidden;
+  transform-origin: center;
 }
 
 #stanley:hover {
